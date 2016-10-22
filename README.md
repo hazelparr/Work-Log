@@ -1,5 +1,3 @@
-<h1>Work Log</h1>
-
 A command line timekeeping program.
 
 <ul>
