@@ -1,3 +1,4 @@
+#Work Log
 A command line timekeeping program.
 
 <ul>
